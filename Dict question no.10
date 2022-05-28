@@ -1,0 +1,6 @@
+#Write a python program to sort a dictionary by key.
+dict={'red':'9','green':'4','blue':'8','white':'5'}
+d=dict.keys()
+t=sorted(d)
+print(t)
+
